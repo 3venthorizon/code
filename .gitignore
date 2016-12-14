@@ -1,0 +1,27 @@
+# Compiled source #
+*.class
+*.dll
+target/
+generated/
+classes/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDE #
+*.iml
+.classpath
+.project
+.springBeans
+.idea/
+.settings/
+gwt-unitCache/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+guardian/gwt/.gwt/.gwt-log
