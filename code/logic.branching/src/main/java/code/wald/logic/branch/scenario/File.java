@@ -1,6 +1,3 @@
-/**
- * 
- */
 package code.wald.logic.branch.scenario;
 
 
