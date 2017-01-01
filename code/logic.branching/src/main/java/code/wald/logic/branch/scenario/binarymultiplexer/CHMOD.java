@@ -1,4 +1,4 @@
-package code.wald.logic.branch.scenario;
+package code.wald.logic.branch.scenario.binarymultiplexer;
 
 
 /**

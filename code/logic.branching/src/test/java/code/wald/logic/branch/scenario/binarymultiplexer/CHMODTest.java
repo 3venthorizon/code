@@ -1,11 +1,14 @@
-package code.wald.logic.branch.scenario;
+package code.wald.logic.branch.scenario.binarymultiplexer;
 
 
+import static code.wald.logic.branch.scenario.binarymultiplexer.Permission.*;
 import static org.junit.Assert.*;
-import static code.wald.logic.branch.scenario.Permission.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import code.wald.logic.branch.scenario.binarymultiplexer.CHMOD;
+import code.wald.logic.branch.scenario.binarymultiplexer.File;
 
 
 /**
